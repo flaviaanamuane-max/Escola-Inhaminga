@@ -1,2 +1,3 @@
-# Escola-Inhaminga
+# Escola Secundária-Inhaminga
 Pesquisa 
+Estudo
